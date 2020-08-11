@@ -139,14 +139,14 @@ svg.highcharts-root {
     border-radius: 10px;
 }
 
-.highcharts-name-undiscovered {
+.highcharts-name-DCP {
     fill: rgba(182, 185, 190, 1);
     opacity: 0.2!important;
     stroke: #fff;
     stroke-width: 0;
 }
 .highcharts-name-unclaimed {
-    fill: rgb(15, 149, 20);
+    fill: rgb(255, 126, 0);
     opacity:0.2!important;
 }
 .highcharts-name-unclaimed:hover {
